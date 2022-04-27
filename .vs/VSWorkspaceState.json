@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cypress",
+    "\\cypress\\files",
+    "\\cypress\\fixtures",
+    "\\cypress\\integration",
+    "\\cypress\\integration\\demo-qa",
+    "\\cypress\\pageObjects",
+    "\\cypress\\plugins",
+    "\\cypress\\support"
+  ],
+  "SelectedNode": "\\cypress\\downloads",
+  "PreviewInSolutionExplorer": false
+}
